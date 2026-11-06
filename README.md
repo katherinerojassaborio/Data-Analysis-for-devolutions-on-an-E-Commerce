@@ -1,4 +1,4 @@
-# Makaled Consulting Group: Shopify Returns Analysis (summary)
+# Makaled Consulting Group: Shopify Returns Analysis 
 
 ## Context
 - **Business:** Shopify, a B2C retail e-commerce business with customers in several countries and a medium-high transaction volume.
@@ -8,7 +8,7 @@
 ## Tech stack
 - **Python:** Pandas (cleaning and transformation), NumPy (numerical calculations), Seaborn and Matplotlib (EDA charts).
 - **Power BI:** dashboard with three views (operational, strategic, and tactical) and global filters.
-- **DAX:** measures for the dashboard KPIs, such as return rate, revenue, profit, and shipping costs.
+- **DAX:** measures for the dashboard KPIs.
 
 ## Objectives
 1. Reduce the global return rate by at least 7% in the next semester.
